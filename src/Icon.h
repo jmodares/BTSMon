@@ -1,0 +1,34 @@
+/*
+ * Icon.h
+ *
+ *  Created on: Dec 26, 2009
+ *      Author: jalil
+ */
+
+#ifndef ICON_H_
+#define ICON_H_
+
+enum {
+	ICON_PERSIAL_0,
+	ICON_PERSIAL_1,
+	ICON_PERSIAL_2,
+	ICON_PERSIAL_3,
+	ICON_PERSIAL_4,
+	ICON_PERSIAL_5,
+
+	ICON_SITE_BLUE,
+	ICON_SITE_GRAPHITE,
+	ICON_SITE_ORANGE,
+	ICON_SITE_PURPLE,
+
+	ICON_BTS_BLUE,
+	ICON_BTS_GREEN,
+	ICON_BTS_LILAC,
+	ICON_BTS_ORANGE,
+
+	ICON_STATE_ALARM,
+};
+
+extern QList<QPixmap> g_icons;
+
+#endif /* ICON_H_ */

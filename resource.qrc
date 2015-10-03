@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Splash.png</file>
+        <file>Persial0.png</file>
+        <file>Persial1.png</file>
+        <file>Persial2.png</file>
+        <file>Persial3.png</file>
+        <file>Persial4.png</file>
+        <file>Persial5.png</file>
+        <file>SiteBlue.png</file>
+        <file>SiteGraphite.png</file>
+        <file>SiteOrange.png</file>
+        <file>SitePurple.png</file>
+        <file>BTSBlue.png</file>
+        <file>BTSGreen.png</file>
+        <file>BTSLilac.png</file>
+        <file>BTSOrange.png</file>
+        <file>Alarm.png</file>
+        <file>Account.png</file>
+        <file>GIS.png</file>
+        <file>Update.png</file>
+        <file>Add.png</file>
+        <file>Delete.png</file>
+        <file>Config.png</file>
+        <file>Refresh.png</file>
+        <file>Start.png</file>
+        <file>Stop.png</file>
+        <file>Full.png</file>
+        <file>Animation.png</file>
+        <file>BSCs.png</file>
+        <file>Sites.png</file>
+        <file>Logs.png</file>
+        <file>Plot.png</file>
+        <file>Notification.png</file>
+        <file>About.png</file>
+    </qresource>
+</RCC>
